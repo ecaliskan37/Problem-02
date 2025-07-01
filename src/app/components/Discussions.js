@@ -1,5 +1,5 @@
 import Discussion from './Discussion'
-import { List } from '../util.js/list'
+import { List } from '../util.js/List'
 
 const Discussions = () => {
   return (
